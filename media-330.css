@@ -1,0 +1,25 @@
+@media (max-width: 330px){
+    .nav {
+        flex-direction: column;
+        gap: 1rem;
+    }
+
+    .nav .logo {
+        width: auto;
+    }
+    .slide .img video {
+        left: 21%;
+        width: 58%;
+    }
+    .img img {
+        width: 80%;
+    }
+    .slide2 .img video {
+        left: 25%;
+        top: 9%;
+        width: 49%;
+    }
+    .img2 img, .img3 img{
+        width: 90%;
+    }
+}

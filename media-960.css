@@ -1,0 +1,92 @@
+@media (max-width: 959px){
+    .content h1 {
+        font-size: 2rem;
+        font-weight: 600;
+    }
+    .content h3 {
+        font-size: 1.4rem;
+        font-weight: 500;
+    }
+    .content h4 {
+        font-size: 0.9rem;
+        font-weight: 400;
+    }
+    .txt p{
+        text-align: center;
+        font-size: 1rem;
+    }
+    .des{
+        width: 90%;
+        align-items: center;
+    }
+    .txt{
+        flex-direction: column;
+        width: 100%;
+    }
+    .slide, .slide2{
+        flex-wrap: wrap;
+    }
+    .slide .img video{
+        left: 23%;
+    }
+    .img img{
+        width: 70%;
+    }
+    .img{
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .img3 img {
+        width: 65%;
+    }
+    .img3{
+        width: 100%;
+        justify-content: center;
+    }
+    .slide3{
+        flex-wrap: wrap-reverse;
+    }
+    .slide2 .img video{
+        left: 28%;
+    }
+    .img2{
+        justify-content: center;
+        width: 100%;    
+    }
+    .img2 img{
+        width: 70%;
+    }
+    .faqs h2 {
+        font-size: 2rem;
+
+    }
+    .txt h2{
+        text-align: center;
+        font-size: 2rem;
+    }
+    .bottom p{
+        text-align: center;
+        padding: 0 2rem;
+    }
+    .left{
+        font-size: 1rem;
+    }
+    .nav .logo{
+        width: 6rem;
+    }
+    .nav{
+        width: 90%;
+    }
+    .c959 {
+        flex-direction: column;
+        gap: 0.7rem;
+        width: 50%;
+    }
+    .foot{
+        gap: 0rem;
+    }
+    .btns{
+        gap: 0.7rem;
+    }
+}
